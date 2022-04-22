@@ -1,0 +1,11 @@
+Deadline- 21st April 2022, 10:00 AM
+Write a Class for student with 
+1. Data members:- 
+Name, 
+RollNo,
+EmailId and
+Marks in 7 subjects
+2. Function members:-
+TotalMarks, 
+Grade (<40% = c grade, >40&&<60=B grade,>60&&<80=A grade, >80=X grade) 
+and required constructors.  
